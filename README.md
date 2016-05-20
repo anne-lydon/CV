@@ -39,7 +39,7 @@ Project | Idea | Built With | Tested With
 #### Makers Academy, London, UK (February to May 2016)
 - high-intensity 12 week web development course
 - main focus on test-driven development, pair programming, agile, and object-oriented design
-- technologies covered: Ruby, Sintra, Rails, Rspec, Capybara, JavaScript, Jasmine, Karma, Protractor
+- technologies covered: Ruby, Sinatra, Rails, Rspec, Capybara, JavaScript, Jasmine, Karma, Protractor
 
 
 #### University of Augsburg, Augsburg, Germany (2009 to 2013)
