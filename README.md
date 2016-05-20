@@ -1,5 +1,5 @@
 ## Annemarie Kohler
-[Skills](#skills) - [Projects](#projects) -[Education](#education) - [Work experience](#work-experience) - [Outside of Coding](#more) - [Blog](http://makers.annikanns.de) - [Twitter](https://twitter.com/annikanns) - <a href="mailto:annemarie.k89@gmail.com">annemarie.k89@gmail.com</a>
+[Skills](#skills) - [Projects](#projects) - [Education](#education) - [Work](#work) - [Outside of Coding](#more) - [Blog](http://makers.annikanns.de) - [Twitter](https://twitter.com/annikanns) - <a href="mailto:annemarie.k89@gmail.com">annemarie.k89@gmail.com</a>
 
 I’ve always had an insatiable curiosity about the web and how it works, so I  have been making websites in my spare time. As I also enjoy helping people, I combined the two by working at Eventbrite's customer support team. This showed me a lot about how people use the internet and what they expect. As a web developer I strive to use these experiences and build user-friendly web projects.
 
@@ -47,7 +47,7 @@ Project | Idea | Built With | Tested With
 - English & German Language and Literature
 - Bachelor of Arts, 2nd Class
 
-## <a name="work-experience">Work experience</a>
+## <a name="work">Work</a>
 
 **Eventbrite** (October 2014 to February 2016)    
 *Client Services Representative (German/English)*  
