@@ -32,8 +32,10 @@ I chose to learn and use NodeJS during my final two-week project at Makers Acade
 Project | Idea | Built With | Tested With
 --- | --- | --- | ---
 [SocialCow](https://github.com/AnnemarieKohler/social-calendar) | Platform to share a calendar with other people so they see what events you’re going to and can join.|JavaScript, Angular, NodeJS, Express.js, PostgreSQL | Karma, Mocha, Chain, Protractor
-[MakersBnB](https://github.com/lorenzoturrino/makers_bnb) | AirBnB clone | Ruby, JavaScript, jQuery, Sinatra, PostgreSQL | Rspec, Capybara
-[Sudoku]() | A Sudoku game where the player solves a puzzle |JavaScript, Knockoutjs| Jasmine
+[MakersBnB](https://github.com/lorenzoturrino/makers_bnb) | AirBnB clone which allows users to book and rent out spaces | Ruby, JavaScript, jQuery, Sinatra, PostgreSQL, HTML, CSS | Rspec, Capybara
+[Sudoku](https://github.com/AnnemarieKohler/sudoku) | A Sudoku game where the player solves a puzzle | JavaScript, Knockoutjs | Jasmine
+[Chittr](https://github.com/AnnemarieKohler/chitter-challenge) | Twitter clone where users can peep short messages | HTML / CSS, Ruby, Sinatra, PostreSQL | Rspec, Capybara
+
 ## <a name="education">Education</a>
 
 #### Makers Academy, London, UK (February to May 2016)
