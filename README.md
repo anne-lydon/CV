@@ -1,5 +1,8 @@
-## Annemarie Kohler
-[Skills](#skills) - [Projects](#projects) - [Education](#education) - [Work](#work) - [Outside of Coding](#more) - [Blog](http://makers.annikanns.de) - [Twitter](https://twitter.com/annikanns) - <a href="mailto:annemarie.k89@gmail.com">annemarie.k89@gmail.com</a>
+# This was my CV when I finished my web-development course in 2016. For a more up-to-date version, visit my [LinkedIn](https://www.linkedin.com/in/annemariekohler/) profile :)
+
+
+### Annemarie Köhler
+[Skills](#skills) - [Projects](#projects) - [Outside of Coding](#more) - [Blog](BLOG) - [LinkedIn](https://www.linkedin.com/in/annemariekohler/)
 
 I’ve always had an insatiable curiosity about the web and how it works, so I  have been making websites in my spare time. As I also enjoy helping people, I combined the two by working at Eventbrite's customer support team. This showed me a lot about how people use the internet and what they expect. As a web developer I strive to use these experiences and build user-friendly web projects.
 
@@ -27,7 +30,7 @@ I chose to learn and use NodeJS during my final two-week project at Makers Acade
 - English (fluent)
 - Middle English (basic)
 
-## <a name="skills">Projects</a>
+## <a name="projects">Projects done at Makers Academy, London (2016)</a>
 
 Project | Idea | Built With | Tested With
 --- | --- | --- | ---
@@ -35,28 +38,6 @@ Project | Idea | Built With | Tested With
 [MakersBnB](https://github.com/lorenzoturrino/makers_bnb) | AirBnB clone which allows users to book and rent out spaces | Ruby, JavaScript, jQuery, Sinatra, PostgreSQL, HTML, CSS | Rspec, Capybara
 [Sudoku](https://github.com/AnnemarieKohler/sudoku) | A Sudoku game where the player solves a puzzle | JavaScript, Knockoutjs, HTML, CSS| Jasmine
 [Chittr](https://github.com/AnnemarieKohler/chitter-challenge) | Twitter clone where users can peep short messages | Ruby, Sinatra, PostreSQL, HTML, CSS | Rspec, Capybara
-
-## <a name="education">Education</a>
-
-#### Makers Academy, London, UK (February to May 2016)
-- high-intensity 12 week web development course
-- main focus on test-driven development, pair programming, agile, and object-oriented design
-- technologies covered: Ruby, Sinatra, Rails, Rspec, Capybara, JavaScript, Jasmine, Karma, Protractor
-
-
-#### University of Augsburg, Augsburg, Germany (2009 to 2013)
-
-- English & German Language and Literature
-- Bachelor of Arts, 2nd Class
-
-## <a name="work">Work</a>
-
-**Eventbrite** (October 2014 to February 2016)    
-*Client Services Representative (German/English)*  
-**Nando's** (May 2014 to October 2014)   
-*Cashier*  
-**Hereford Sixth Form College** (October 2012 - June 2014)   
-*German Language Teaching Assistant*
 
 ## <a name="more">Outside of coding</a>
 - Learning new Hula Hooping tricks
