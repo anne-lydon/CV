@@ -1,7 +1,7 @@
 # This was my CV when I finished my web-development course in 2016. For a more up-to-date version, visit my [LinkedIn](https://www.linkedin.com/in/annemariekohler/) profile :)
 
 
-### Annemarie Köhler
+### Annemarie Lydon
 [Skills](#skills) - [Projects](#projects) - [Outside of Coding](#more) - [Blog](BLOG) - [LinkedIn](https://www.linkedin.com/in/annemariekohler/)
 
 I’ve always had an insatiable curiosity about the web and how it works, so I  have been making websites in my spare time. As I also enjoy helping people, I combined the two by working at Eventbrite's customer support team. This showed me a lot about how people use the internet and what they expect. As a web developer I strive to use these experiences and build user-friendly web projects.
